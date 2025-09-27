@@ -10,7 +10,7 @@
 You are tasked with creating a data pipeline to extract employee data, mask sensitive information within the data, and load it into BigQuery. Additionally, you are required to develop a dashboard to visualize the employee data securely.
 
 ## Architecture
-![architecture](images/Project%20Architecture.jpg)
+![architecture](images/Project%20Architecture.png)
 
 ### Tech Stacks
 Programming Language - Python
