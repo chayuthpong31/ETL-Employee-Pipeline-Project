@@ -7,7 +7,7 @@
 # Employee ETL Pipeline
 ## Overview
 
-You are tasked with creating a data pipeline to extract employee data, mask sensitive information within the data, and load it into BigQuery. Additionally, you are required to develop a dashboard to visualize the employee data securely.
+This project focus on designed and implemented an End-to-End Data Pipeline to manage sensitive employee data securely. This process involved extracting raw data, applying robust data masking techniques to sensitive fields, and loading the secured dataset into Google BigQuery for analytical use. I then developed a Secure Dashboard to visualize the employee data while maintaining strict access controlsใ
 
 ## Architecture
 ![architecture](images/Project%20Architecture.png)
